@@ -18,8 +18,8 @@ Technologies used:
 
 <h3>This is a custom built REST API,which provides options like:</h3>
 
-. Get information of all the users in the database 
-. Add new users in the database.
-. Delete users from the database.
-. Get a user by his/her unique Id.
-. Modify the user's information.
+. Get information of all the users in the database. <br>
+. Add new users in the database. <br>
+. Delete users from the database. <br>
+. Get a user by his/her unique Id. <br>
+. Modify the user's information. <br>
