@@ -1,11 +1,13 @@
 # REST_API_PROJECT8
 
+<h2>
 Technologies used:
 
 1) Node JS
 2) Express JS
 3) Postman
-
+  
+</h2>
 <hr>
 
 <p align="center">
@@ -14,7 +16,7 @@ Technologies used:
 
 <hr>
 
-<h2>This is a custom built REST API,which provides options like:<h2>
+<h3>This is a custom built REST API,which provides options like:</h3>
 
 . Get information of all the users in the database 
 . Add new users in the database.
