@@ -1,6 +1,6 @@
 # REST_API_PROJECT8
 
-<h2>
+###
 Technologies used:
 <br>
   
@@ -19,10 +19,13 @@ Technologies used:
 . Get a user by his/her unique Id. <br>
 . Modify the user's information. <br>
 </h4>
-<hr>
+<br>
+<br>
+<br>
+<br>
 <p align="center">
   <img src="REST_API_pic.jpg"/>
 </p>
 
-<hr>
+
 
